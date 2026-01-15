@@ -4,7 +4,10 @@
 This is a minor project developed as part of my academic coursework to understand the practical implementation of Machine Learning concepts.
 
 ## Problem Statement
-[Write 2–3 lines about what problem your project solves.]
+The objective of this project is to build a machine learning model that predicts
+[output] based on given input features. The project focuses on understanding
+data preprocessing, model training, and performance evaluation.
+
 
 ## Dataset
 [Dataset source or description.]
