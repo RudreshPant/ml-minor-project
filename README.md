@@ -10,6 +10,9 @@ data preprocessing, model training, and performance evaluation.
 
 
 ## Dataset
+ FIFA Player Dataset – Kaggle 
+https://www.kaggle.com/datasets 
+
 The objective of this project is to analyze football player performance using Exploratory Data 
 Analysis techniques. The project aims to identify important factors that influence a player’s 
 overall rating and understand relationships between different player attributes such as age, 
